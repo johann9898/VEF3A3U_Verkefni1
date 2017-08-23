@@ -1,0 +1,1 @@
+HTTP/2 supports queries multiplexing, headers compression, priority and more intelligent packet streaming management.
